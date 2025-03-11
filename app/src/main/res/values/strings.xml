@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">To Do List App</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="positive">+</string>
 </resources>
