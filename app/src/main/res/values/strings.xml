@@ -2,4 +2,8 @@
     <string name="app_name">To Do List App</string>
     <string name="to_do_list">To Do List</string>
     <string name="positive">+</string>
+    <string name="to_do_title">To Do Title</string>
+    <string name="enter_to_do_title">Enter To Do Title</string>
+    <string name="cancel">CANCEL</string>
+    <string name="Ok">OK</string>
 </resources>
